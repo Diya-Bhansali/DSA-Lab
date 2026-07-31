@@ -38,5 +38,7 @@ This repository contains my college Data Structures assignments, C++ implementat
 - ✅ Assignment 1
   - C++ Implementation
   - AI Code Analysis Report
+- ✅ Assignment 2
+  - Source code and AI Analysis
 
 More assignments and implementations will be added throughout the semester.
